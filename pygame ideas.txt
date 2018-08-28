@@ -1,0 +1,27 @@
+first equal inverse of value
+second equals average
+third equals random
+
+
+
+
+lightning generator
+
+
+falling sand
+
+
+
+grid = [x[y[r,g,b],alive]]
+
+variable size or resolution
+
+clouds
+
+uneven ground that stops the lightning
+
+day/night cycle
+
+proper frequency for the storm
+
+rain effects

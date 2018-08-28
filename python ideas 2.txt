@@ -1,0 +1,2 @@
+random colour, 50% to pick a colour already picked and randomly place it or 50% chance to pick a new colour and place and add it to the list.
+some seeds are randomly placed, a location is randomly picked, it finds the two closest colours and averages them and places it, repeats until no empty spots
